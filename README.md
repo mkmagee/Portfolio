@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Education
-Quantitative Social Science, Ba - Dartmouth College
+Quantitative Social Science, BA - Dartmouth College
 
 ### Work Experience
 -Data Science Intern - LoneCypressAI

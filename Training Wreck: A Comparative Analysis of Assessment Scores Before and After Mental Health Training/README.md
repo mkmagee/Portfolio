@@ -1,6 +1,8 @@
 # QSS20 Final Project 
 ## Training Wreck: A Comparative Analysis of Assessment Scores Before and After Mental Health Training
 
+This was part of a group final project for a Modern Statistical Computing class. I created the repository and wrote almost all the code for the project.
+
 ## Data Sources
 The data for this analysis was sourced from pre and post-training assessments conducted by the medical school. The datasets include:
 
